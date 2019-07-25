@@ -15,7 +15,7 @@ net.ipv4.ip_forward=1
 ```
 
 Porque?
-- `vm.swappiness=0`: Altamente subjetivo e depende do HD onde a swap está armazenada, e da quantidade de RAM no seu computador.
+- `vm.swappiness=0`: Altamente subjetivo e depende do HD onde a swap está armazenada, e da quantidade de RAM no seu computador. Se você realmente tem um computador com HD lento e com bastante RAM, ative isto. Senão, deixa quieto e configurado com o padrão que a sua distribuição fornece.
 - `net.ipv4.tcp_syncookies=1`: Grande parte das distribuições de hoje em dia já tem este parametro configurado por padrão
 - `net.ipv4.ip_forward=1`: Não existe relação direta entre performance e a habilidade de encaminhar pacotes em uma caixa Linux. Totalmente desnecessário
 
