@@ -1,5 +1,8 @@
 # Desktop
 ### Licença LGPL v3
+#### Porque um fork?
 
+O "dono" original do PlayOnGit acha bonito a auto-promoção usando scripts shell que fazem a mesma coisa que o playonlinux e o lutris fazem, ou utilizando serviços originalmente hospedados em tais projetos.
 
-#### Tudo para um desktop Linux, tema gtk, tema zsh, scripts variados, scripts de papel de parede aleatório e muito mais...
+Se utiliza do trabalho dos outros e recusa receber melhorias no software original(que diga-se de passagem é GPL).
+
