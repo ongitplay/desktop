@@ -1,11 +1,4 @@
-# Uma forma intuitiva de instalar o ArchLinux, por Felipe Facundes
-
-> by Felipe Facundes
-###### Grupo Telegram: https://t.me/winehq_linux
-###### Canal Telegram: https://t.me/s/PlayOnGit
-###### Site: https://linuxgamers.github.io/
-
-<br></br>
+# Mais um tutorial da internet de como instalar o Arch Linux.
 
 # Primeiro conecte com a internet:
 
@@ -473,54 +466,3 @@ https://jogoslinux.github.io/
 ###### install extra components (optional but needed for gaming):
 ###### pacman -S opencl-catalyst lib32-catalyst-utils lib32-catalyst-libgl lib32-opencl-catalyst
 #
-
-<br></br>
-
-```
-                    ,cldxOxoc:;,
-               ,;:okKNXKK0kO0Okxddol:;,
-        ,;codxkkOKXKko:'......,;clx0KXXOxol:,
-   :lodxxdololc:,'..................,cdk00kxkOkxoc,
-  ;XOxdl:,..  .......................... ..,;lx0XNx
-  lX0c      ..;dddddooooollll,............     .0XO'
-  oKK;    ....0NNXXKKK00OOOkx'.............     x0x,
-  lXX;   ....,WWNNNKdddoooooc.'..............   okk,
-  cXW:  .....xWWWWWl''''''''''''''............  dd0,
-  :OWo ......NMMMMWOkkkkxxxc''''''''.......... .kxK'
-  ,dKk .....lWWWWMMMWWWNNNX:,''''''''...........KOx'
-  ,lk0......ONNNWWddddddddo,,,,,''''''.........lNOc'
-  'cdk;....;KXXXNO''',,,,,,,ddddoooolllccc:....0WO,'
-  ',ddd....o0KKKXl'',,,,,,,lWWNNNXXKKK00OOc...,0Xx'
-   'llo;...kO00K0,'',,,,,,,0MWWWN0OOOkkkxx'...oxK;'
-   ',xcl..,lloool''',,,,,,:WWMMMX''''''......cxko'
-    ':x:c......''''''',,,,xNWWWM0dddddool...:00O,'
-     'ld::.......'''''',,,KNNNWWWMMMWWWWx..;XXK;'
-      'dd::.......'''''''lKXXNN0kkOOOkkk;.;0KK;'
-       'ox::........'''''x0KKKX;'''......lK0k;'
-        'cx:c,........'.,OO00KO........'kN0o,'
-         ',dllc'........lkkOO0c.......:KNk:'
-           ':lldc.......oodddd'.....,d0Oc,'
-            ',:ldxl'..............'lxxo;,'
-              ',;lx0x;..........,cldo:'
-               '',cxXXd,....,cdxkd:'
-                   ',;o0N0odkkkk,'
-                     ',;lxdl:,'
-
- Tutorial by:
- ___    _             ___                     _
-| __|__| (_)_ __  ___| __|_ _ __ _  _ _ _  __| |___ ___
-| _/ -_) | | '_ \/ -_) _/ _` / _| || | ' \/ _` / -_|_-<
-|_|\___|_|_| .__/\___|_|\__,_\__|\_,_|_||_\__,_\___/__/
-           |_|
-
-┏┓
-┃┃╱╲ nesta
-┃╱╱╲╲ casa
-╱╱╭╮╲╲ todos
-▔▏┗┛▕▔ usam
-╱▔▔▔▔▔▔▔▔▔▔╲
-LINUX
-╱╱┏┳┓╭╮┏┳┓ ╲╲
-▔▏┗┻┛┃┃┗┻┛▕▔
---------------------------
-```
