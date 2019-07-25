@@ -15,8 +15,6 @@ GRUB_COLOR_NORMAL="blue/black"
 GRUB_COLOR_HIGHLIGHT="cyan/yellow"
 ````
 
-<br></br>
-
 #
 ### Atenção:
 
@@ -36,9 +34,6 @@ GRUB_COLOR_HIGHLIGHT="cyan/yellow"
 
     GRUB_THEME="/boot/grub/themes/archlinux/theme.txt"
 
-
-<br></br>
-
 #
 > Após você **salvar** o arquivo: **/etc/default/grub**
 
@@ -46,31 +41,5 @@ GRUB_COLOR_HIGHLIGHT="cyan/yellow"
 
     sudo grub-mkconfig -o /boot/grub/grub.cfg
 
-<br></br>
-
 Pronto, tudo certo: tema configurado ;)
 #
-
-<br></br>
-
-```
-┏┓
-┃┃╱╲ nesta
-┃╱╱╲╲ casa
-╱╱╭╮╲╲ todos
-▔▏┗┛▕▔ usam
-╱▔▔▔▔▔▔▔▔▔▔╲
-LINUX
-╱╱┏┳┓╭╮┏┳┓ ╲╲
-▔▏┗┻┛┃┃┗┻┛▕▔
-```
-
-###### - Fatality
-###### - Linux Wins
-
-
-
-
-
-
-
