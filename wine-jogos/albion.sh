@@ -1,10 +1,16 @@
 #!/bin/bash
-# PlayOnGit - Inicie seus Jogos direto do menu iniciar, sem precisar de PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
+
+# PlayOnGit - Inicie seus Jogos direto do menu iniciar, sem precisar de
+# PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 # Licença: GPLv3
-# Mantenedor: Felipe Facundes
+# Autor: Felipe Facundes
+# Mantedor: On Git Play Team
 # Faça o seu pedido de tutorial e GamePlay no nosso:
 # 既 Grupo 調 Gamer do 切 Telegram 切: https://t.me/winehq_linux
-########### Este script irá usar o wine personalizado. Mas, você poderá usar um wine na versão e local de sua escolha
+# Este script irá usar o wine personalizado. Mas, você poderá usar um wine na
+# versão e local de sua escolha
+
+# Váriaveis
 WV=wine-staging-4.8-1-x86_64
 GN=albion
 SN="Albion Online"
