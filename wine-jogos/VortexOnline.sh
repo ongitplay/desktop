@@ -205,7 +205,7 @@ wget -nc "http://dn01.vortex.gg/VortexOnlineInstaller.exe?&aff=" -O VortexOnline
 # Respeitando as Letras MAÍUSCULAS e minúsculas. Exemplo: Setup.exe
 #⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
 
-cd "/home/$USER/.jogos/wineprefixes/"$GN"/drive_c/Program Files (x86)/"
+cd "/home/$USER/.jogos/wineprefixes/$GN/drive_c/Program Files (x86)/"
 #"$W"/bin/wine
 
 #⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫⏫
